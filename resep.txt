@@ -3,3 +3,14 @@ Resep masakan :
 1. Nasi goreng
 2. Ayam Goreng
 3. Mie Goreng
+4. Rendang
+5. Nasi Padang
+6. Ikan bakar
+7. Soto
+1. Nasi goreng
+2. Ayam Goreng
+3. Mie Goreng
+4. Rendang
+5. Nasi Padang
+6. Ikan bakar
+7. Soto
